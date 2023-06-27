@@ -61,11 +61,11 @@ optimizer = SGD_Win(params, lr=args.lr, momentum=0.9, reckless_steps=args.reckle
 
 For your convenience to use Win and Win2, we provide the configs and log files for the experiments on ImageNet-1k.
 <div align="center">
-<img width="80%" alt="Overall framework of Mugs. " src="./results/ResNet.png">
+<img width="80%" alt="Results on Resnets " src="./CV/results/ResNet.png">
 </div>
 
 <div align="center">
-<img width="80%" alt="Overall framework of Mugs. " src="./results/ViT.png">
+<img width="80%" alt="Results on ViTs " src="./CV/results/ViT.png">
 </div>
 
 Here we provide the training logs and configs under 300 training epochs 
